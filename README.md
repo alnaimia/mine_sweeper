@@ -16,7 +16,7 @@ Given a grid with cells that either contain a mine ("#") or are empty ("-"), the
 1. Clone the repository:
 
    ```bash
-   https://github.com/al1A91/mine_sweeper.git
+   https://github.com/alnaimia/mine_sweeper.git
 
 
 ## Usage
